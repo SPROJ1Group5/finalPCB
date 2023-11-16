@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HFD4_005")(type "KiCad")(uri "C:/Users/m1cha1s/Documents/University/projects/sproj1/HFD4_005")(options "")(descr ""))
+  (lib (name "FCR7350R")(type "KiCad")(uri "C:/Users/m1cha1s/Documents/University/projects/sproj1/FCR7350R")(options "")(descr ""))
+)
