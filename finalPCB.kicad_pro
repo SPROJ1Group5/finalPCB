@@ -495,6 +495,14 @@
       {
         "netclass": "Signal",
         "pattern": "CURR*"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "TEMP*"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "Net-(K1-P*"
       }
     ]
   },
