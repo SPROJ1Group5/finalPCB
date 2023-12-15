@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "HFD4_005")(type "KiCad")(uri "C:/Users/m1cha1s/Documents/University/projects/sproj1/HFD4_005/HFD4_005.kicad_sym")(options "")(descr ""))
-  (lib (name "FCR7350R")(type "KiCad")(uri "C:/Users/m1cha1s/Documents/University/projects/sproj1/FCR7350R/FCR7350R.kicad_sym")(options "")(descr ""))
-  (lib (name "Sensor_Temperature")(type "Legacy")(uri "C:/Users/m1cha1s/Documents/University/projects/sproj1/Sensor_Temperature/Sensor_Temperature.lib")(options "")(descr ""))
-)
